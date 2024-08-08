@@ -20,7 +20,7 @@ df = load_data()
 
 # EXPLORATORY DATA ANALYSIS
 
-st.title(":rainbow[ClimateChange Prediction]")
+st.title(":rainbow[Climate Change Prediction]")
 
 st.markdown(
     """
